@@ -14,7 +14,19 @@
 
 
 
+
+
+
+
+
+
+
 ![CIFAR-10 Image](https://user-images.githubusercontent.com/81832778/126631594-64133c30-5458-4b1b-af7f-9ba120a9d11a.jpg)
+
+
+
+
+
 
 
 
@@ -36,6 +48,14 @@ The CIFAR-10 dataset is a subset of the Tiny Images dataset and consists of 6000
 
 
 
+
+
+
+
+
+
+
+
 ![Prediction](https://user-images.githubusercontent.com/81832778/126631742-7cd878d7-ee54-4c69-9c6b-322332484700.png)
 
 
@@ -43,4 +63,6 @@ The CIFAR-10 dataset is a subset of the Tiny Images dataset and consists of 6000
 
 
 
-Actual Labels and Predictions by model
+
+
+                                      Actual Labels and Predictions by model
