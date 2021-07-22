@@ -4,7 +4,7 @@
 
 ![Alexnet](https://user-images.githubusercontent.com/81832778/126631433-5005a8e2-9160-47ee-8941-53052d0f2433.png)
 
-                           Alexnet Architecture for image classification
+ Alexnet Architecture for image classification
 
 
 
@@ -58,11 +58,12 @@ The CIFAR-10 dataset is a subset of the Tiny Images dataset and consists of 6000
 
 ![Prediction](https://user-images.githubusercontent.com/81832778/126631742-7cd878d7-ee54-4c69-9c6b-322332484700.png)
 
+ Actual Labels and Predictions by model
+ 
+ 
+ 
+ ![download](https://user-images.githubusercontent.com/81832778/126635231-2b7096ed-71c9-486a-a137-1a5d3668ab1e.png)
+ 
+ Accuracy
 
 
-
-
-
-
-
-                                      Actual Labels and Predictions by model
